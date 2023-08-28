@@ -1,23 +1,8 @@
 
-# Readme file for desk
 
-Constructor Research Platform is the Machine Intelligence computational and data management solution for researchers that enables fast, reliable research and collaborative processes, which covers the needs of science automation.
-
-### **What you can do in the project:**
-
-- Set up work environment for your tasks and write code in **My desk**
-
-- Manage members (collaborators) and remote compute resources of your project team in **Settings**
-
-- Work together easily as collaborators and version your code and data using project **Source control**
-
-- Automate long-running experiments by creating **Workflows**
-
-- Analyze and visualize tabular data through chart creation, data filtering, and sorting capabilities in **Datacatalog**
-
-- Create **Publications** with results of your research and share them to web
-
-You can find more details in the documentation [here](https://docs.constructor.tech/articles/research-platform-user-guide).
+## Contextual Recurrent Neural Network
+Classical implementation of quantum model introduced in (Anschuetz et al. 2023) is located in QRNN folder. The model is trained on natural language translation task. With the same memory size quantum model slightly outperforms classical GRU and LSTM recurrent units. Different models with different parameters can be trained in `translate_train.ipynb` notebook. Parameters are configured by `trans_params.yaml` file. 
 
 
-You can edit the README file and add the description related to this project. Let's start to work!
+# Reference
+Anschuetz, Eric R., Hong-Ye Hu, Jin-Long Huang, and Xun Gao. 2023. “Interpretable Quantum Advantage in Neural Sequence Learning.” PRX Quantum 4 (2): 020338. https://doi.org/10.1103/PRXQuantum.4.020338.
