@@ -1,3 +1,5 @@
+## Quantum GAN
+
 Code to learn QuGAN model from (Stein et al. 2021).
 
 Code can be run as a py file and configured with command line arguments, or as a jupyter notebook.
