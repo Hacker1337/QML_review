@@ -1,3 +1,18 @@
+# Quantum Machine learning in NISQ era
+
+1. **QML frameworks**  
+  Firstly tools to running quantum algorithms by simulation or by real quantum computers. Frameworks' abilities and limitations are presented.
+1. **Continuous Variable Quantum Computing**  
+  Foundations of photonic approach to quantum computing with infinite dimensional qumodes instead of 2-dim qubits. 
+2. **Generative models**
+   - **Quantum Recurrent Unit on Gaussian platform**  
+   Continuous variable based algorithm used for text translation.
+   - **Quantum GAN-s**  
+   Algorithms with widely believe quantum advantage over classical counterparts.   
+3. **Category theory and ZX-calculus**     
+    mathematically justified diagrammatic language for writing quantum circuits
+4. **Quantum Graph classification models**  
+Exponential advantage due to parallel processing of subgraphs. And natural quantum graph embedding based on number of perfect matchings in subgraphs. 
 
 
 ## Contextual Recurrent Neural Network
