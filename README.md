@@ -1,4 +1,7 @@
 # Quantum Machine learning in NISQ era
+<img src="https://www.microsoft.com/en-us/research/uploads/prod/2022/03/Quantum-blog_ChetanNayak_03-2022_1400x788.jpg" height=250>
+<img src="https://pennylane.ai/images/qml/whatisqml/QML_optimization.svg" height=250>
+*
 
 In this repo presented several algorithms for quantum computers that have a hope for achieving advantage over classical models at least in some tasks in Noisy Intermediate Scale Quantum (NISQ) era or in nearest future.
 
@@ -15,3 +18,5 @@ In this repo presented several algorithms for quantum computers that have a hope
     Mathematically justified diagrammatic language for writing quantum circuits
 4. **Quantum Graph classification models**  
 Exponential advantage due to parallel processing of subgraphs. And natural quantum graph embedding based on number of perfect matchings in subgraphs. 
+
+\* images from [1](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/Quantum-blog_ChetanNayak_03-2022_1400x788.jpg) and [2](https://pennylane.ai/images/qml/whatisqml/QML_optimization.svg)
