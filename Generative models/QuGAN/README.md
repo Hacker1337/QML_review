@@ -7,8 +7,11 @@ Code can be run as a py file and configured with command line arguments, or as a
 There are 3 available models, that can be chosen by `model` parameter:\
 "c" -- classial GAN \
 "q_exp" -- expectation value base quantum model with classical noise \
-"q_sample" -- quantum sample based model. Uses quantum randomness 
+"q_sample" -- quantum sample based model. Uses quantum randomness
 
+The most recent version of code here https://github.com/Hacker1337/QuGAN-mnist
+
+Interactive run logs here https://wandb.ai/amirfvb/QuGAN-mnist
 
 ## Reference
 
