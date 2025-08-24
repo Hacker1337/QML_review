@@ -2,3 +2,4 @@
 /rolos_workflow_data
 /.rolos_storages
 **/__pycache__
+**/.conda
