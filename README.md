@@ -4,7 +4,7 @@
 *
 
 
-This project contains code for running models discussed in a survey article %todo add link to arxiv
+This project contains code for running models discussed in a survey article "Survey of Quantum Machine Learning Advances: Insights from the NISQ Era"
 
 It presents several algorithms for quantum computers that have hope of achieving an advantage over classical models, at least in some tasks in the Noisy Intermediate Scale Quantum (NISQ) era or in the nearest future.
 
